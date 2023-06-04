@@ -1,0 +1,12 @@
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\bin\Debug\Employee_Mgt_Systeam.exe.config
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\bin\Debug\Employee_Mgt_Systeam.exe
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\bin\Debug\Employee_Mgt_Systeam.pdb
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.csproj.AssemblyReference.cache
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.Frm_Login.resources
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.Properties.Resources.resources
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.csproj.GenerateResource.cache
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.csproj.CoreCompileInputs.cache
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.exe
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.pdb
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.frm_Add_New_Employee.resources
+D:\c# assignment\employee_app\Employee_Mgt_Systeam\obj\Debug\Employee_Mgt_Systeam.frm_View_Employee_List.resources
